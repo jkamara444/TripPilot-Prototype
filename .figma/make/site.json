@@ -1,0 +1,10 @@
+{
+  "description": "Streamline business travel planning with AI-driven recommendations, expense tracking, and policy compliance for corporate travelers using Visa Secure Travel Pass.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
