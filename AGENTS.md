@@ -1,4 +1,4 @@
-# figma-make-app
+# VISA TripPilot Prototype
 
 React + Vite + Tailwind CSS project running inside Figma Make.
 
